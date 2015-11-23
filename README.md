@@ -1,4 +1,4 @@
 # crude-shellhunter
-Fooling with the php PCRE functions to remove injected PHP webshells in client content
-
+Fooling with AWK to remove webshells injected into client code.
 That's pretty much it.
+
